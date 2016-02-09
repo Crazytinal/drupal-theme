@@ -1,0 +1,6 @@
+name = mytheme
+description = foo
+core =7.x
+screenshot = screencapture.png
+
+stylesheets[all][] = assets/css/style.css
